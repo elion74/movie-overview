@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #002C2F;
+    color:#ededed;
+    height:100px;
+    width:100%; 
+    padding-top:15px;
+    
+}
+.navbar_content{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_logo{
+    padding-left:7%;
+}
+.navbar_content:last-child{
+    padding-right:3%;
+}

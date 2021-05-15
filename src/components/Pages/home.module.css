@@ -1,0 +1,26 @@
+
+.home_search{
+    height: 400px;
+    width: 80%;
+    padding-top:65px;
+    color:#ededed;
+    text-align:center;
+    margin:0 auto;
+    margin-bottom:90px;
+    background-color:#1E646E;
+
+}
+.welcome{
+    margin-bottom: 15px;
+}
+
+.headlines{
+    font-size:2em;
+    margin-left:7%;
+    margin-top:80px;
+    margin-bottom: 10px;
+}
+
+.platzvergrösserer{
+    margin-bottom:300px;
+}

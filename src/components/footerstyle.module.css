@@ -1,0 +1,32 @@
+.footer_container{
+    background-color:#002C2F;
+    width:100%;
+    height:400px;
+    clear:left;
+}
+
+.footer_logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:50px;
+    padding-bottom: 20px;
+}
+
+.footer_items{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    /* padding:10%; */
+    flex-wrap: wrap;
+    font-size: 1.5em;
+    margin-top:40px;
+    color:#ededed;
+    /* color:white; */
+}
+
+.footer_last{
+    text-align: center;
+    margin-top:90px;
+    color:#ededed;
+}
