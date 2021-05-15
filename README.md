@@ -3,7 +3,6 @@ This project uses the unofficial IMDB API (https://imdb-api.com/).It displays mo
 Here is an example of the Detailspage where you can get informations about the movies or series:
 
 ![Screenshot (19).png](https://github.com/elion74/movie-overview/blob/main/Screenshot%20(19).png?raw=true)
-<br />
 
 ## Available Scripts
 
