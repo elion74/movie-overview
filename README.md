@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses the unofficial IMDB API (https://imdb-api.com/).It displays movie information, actors information and reviews.Each movie and series has a trailer built in so that you can decide if you want to watch it.You have too create an account on https://imdb-api.com/ and get an API-key which you can include in the .env-sample file. After that rename it to .env . 
 
 ## Available Scripts
 
